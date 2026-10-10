@@ -1,0 +1,147 @@
+sample,tissue
+TENX152,colon
+TENX149,colon
+TENX148,colon
+TENX147,colon
+MISC73,colon
+MISC72,colon
+MISC67,colon
+MISC66,colon
+MISC63,colon
+MISC62,colon
+MISC58,colon
+MISC57,colon
+MISC50,colon
+MISC49,colon
+MISC48,colon
+MISC47,colon
+MISC45,colon
+MISC42,colon
+MISC41,colon
+MISC40,colon
+MISC36,colon
+MISC35,colon
+MISC33,colon
+TENX128,colon
+TENX92,colon
+TENX91,colon
+TENX90,colon
+TENX70,colon
+ZEN45,colon
+ZEN44,colon
+ZEN42,colon
+ZEN38,colon
+MEND147,prostate
+MEND160,prostate
+MEND151,prostate
+MEND145,prostate
+MEND140,prostate
+MEND158,prostate
+MEND157,prostate
+MEND156,prostate
+MEND150,prostate
+MEND62,prostate
+MEND61,prostate
+TENX40,prostate
+MEND60,prostate
+MEND59,prostate
+INT26,prostate
+INT28,prostate
+INT27,prostate
+TENX157,prostate
+MEND143,prostate
+MEND153,prostate
+MEND18,prostate
+MEND24,prostate
+MEND19,prostate
+MEND148,prostate
+MEND146,prostate
+MEND162,prostate
+MEND154,prostate
+MEND141,prostate
+MEND142,prostate
+INT35,prostate
+TENX46,prostate
+INT25,prostate
+SPA68,breast
+SPA67,breast
+SPA66,breast
+SPA116,breast
+SPA97,breast
+SPA98,breast
+SPA96,breast
+SPA73,breast
+SPA102,breast
+SPA104,breast
+SPA103,breast
+SPA80,breast
+SPA95,breast
+SPA94,breast
+SPA118,breast
+SPA117,breast
+SPA107,breast
+SPA112,breast
+SPA111,breast
+SPA61,breast
+SPA60,breast
+SPA69,breast
+SPA100,breast
+SPA99,breast
+SPA57,breast
+SPA90,breast
+SPA92,breast
+SPA91,breast
+SPA114,breast
+SPA84,breast
+SPA83,breast
+SPA64,breast
+SPA109,breast
+SPA108,breast
+SPA101,breast
+SPA93,breast
+SPA105,breast
+SPA82,breast
+SPA115,breast
+SPA106,breast
+SPA55,breast
+INT24,lymph node
+INT22,lymph node
+INT21,lymph node
+INT19,lymph node
+INT16,lymph node
+INT15,lymph node
+INT14,lymph node
+INT13,lymph node
+INT12,lymph node
+INT8,lymph node
+INT7,lymph node
+INT5,lymph node
+INT4,lymph node
+NCBI683,lymph node
+NCBI682,lymph node
+NCBI681,lymph node
+MEND37,skin(cSCC)
+MEND39,skin(cSCC)
+MEND40,skin(cSCC)
+NCBI770,skin(cSCC)
+NCBI768,skin(cSCC)
+NCBI769,skin(cSCC)
+MEND38,skin(cSCC)
+NCBI764,skin(cSCC)
+NCBI766,skin(cSCC)
+NCBI760,skin(cSCC)
+NCBI765,skin(cSCC)
+ZEN78,skin(Melanoma)
+ZEN79,skin(Melanoma)
+ZEN80,skin(Melanoma)
+ZEN81,skin(Melanoma)
+NCBI638,brain
+NCBI635,brain
+NCBI629,brain
+NCBI632,brain
+NCBI631,brain
+NCBI640,brain
+MEND66,brain
+MEND65,brain
+TENX31,brain
+TENX30,brain
